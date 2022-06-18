@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vacancies>
+  <Vacancy>
+    <Organization>SoftServe</Organization>
+    <Position>Junior Java Engineer</Position>
+    <Qualification>C</Qualification>
+    <Experience>0</Experience>
+    <Salary>10000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>SoftServe</Organization>
+    <Position>Junior Python Engineer</Position>
+    <Qualification>C</Qualification>
+    <Experience>0</Experience>
+    <Salary>12000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>SoftServe</Organization>
+    <Position>Data Scientist</Position>
+    <Qualification>B+</Qualification>
+    <Experience>2</Experience>
+    <Salary>35000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>SoftServe</Organization>
+    <Position>Senior Big Data Engineer</Position>
+    <Qualification>A</Qualification>
+    <Experience>5</Experience>
+    <Salary>70000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>SoftServe</Organization>
+    <Position>Senior Project Manager</Position>
+    <Qualification>A+</Qualification>
+    <Experience>7</Experience>
+    <Salary>120000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>30</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>GlobalLogic</Organization>
+    <Position>Lead .Net Engineer</Position>
+    <Qualification>A+</Qualification>
+    <Experience>7</Experience>
+    <Salary>135000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>32</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>GlobalLogic</Organization>
+    <Position>Middle Java Developer</Position>
+    <Qualification>B</Qualification>
+    <Experience>2</Experience>
+    <Salary>50000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>GlobalLogic</Organization>
+    <Position>Lead Full Stack .Net Engineer</Position>
+    <Qualification>A+</Qualification>
+    <Experience>8</Experience>
+    <Salary>150000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>30</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>GlobalLogic</Organization>
+    <Position>Junior Python Engineer</Position>
+    <Qualification>C</Qualification>
+    <Experience>0</Experience>
+    <Salary>15000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>GlobalLogic</Organization>
+    <Position>Middle C++ Developer</Position>
+    <Qualification>B</Qualification>
+    <Experience>2</Experience>
+    <Salary>50000</Salary>
+    <Insurance>true</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization>A</Organization>
+    <Position>B</Position>
+    <Qualification>C</Qualification>
+    <Experience>10</Experience>
+    <Salary>150000</Salary>
+    <Insurance>false</Insurance>
+    <Vacation>21</Vacation>
+  </Vacancy>
+  <Vacancy>
+    <Organization />
+    <Position />
+    <Qualification />
+    <Experience>0</Experience>
+    <Salary>0</Salary>
+    <Insurance>false</Insurance>
+    <Vacation>0</Vacation>
+  </Vacancy>
+</Vacancies>

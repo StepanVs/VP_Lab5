@@ -1,0 +1,89 @@
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\Lab_5.exe.config
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\Lab_5.exe
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\Lab_5.pdb
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+C:\Users\gorsk\Desktop\C_#\Lab_5\Lab_5\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\Lab_5.exe.config
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\Lab_5.exe
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\Lab_5.pdb
+C:\Users\gorsk\Desktop\Нова папка (2)\Lab_5\Lab_5\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\Lab_5.exe.config
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\Lab_5.exe
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\Lab_5.pdb
+C:\Users\gorsk\Desktop\Нова папка\f\Lab_5\Lab_5\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\Lab_5.exe.config
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\Lab_5.exe
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\Lab_5.pdb
+C:\Users\gorsk\Desktop\Lab_5\Lab_5\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\Lab_5.exe.config
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\Lab_5.exe
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\Lab_5.pdb
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\gorsk\Desktop\Oleg\Lab_5Oleg\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+E:\Lab_5\Lab_5\Lab_5.exe.config
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+E:\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+E:\Lab_5\Lab_5\Lab_5.exe
+E:\Lab_5\Lab_5\Lab_5.pdb
+E:\Lab_5\Lab_5\Equin.ApplicationFramework.BindingListView.dll
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\Lab_5.exe.config
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\Lab_5.exe
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\Lab_5.pdb
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\Lab_5\Lab_5\Equin.ApplicationFramework.BindingListView.dll
